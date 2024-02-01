@@ -1,5 +1,5 @@
 # FROM ubuntu:18.04
-FROM debian
+FROM debian:12
 
 ARG USERNAME=gdfoster
 ARG TTYPORT=8080
